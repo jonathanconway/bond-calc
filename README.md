@@ -1,8 +1,17 @@
 # BondCalc
 
-> Financial tool for visualising and modelling inflation-protected bonds.
+> Financial tool for visualising and modelling [inflation-protected government bonds](https://en.wikipedia.org/wiki/Inflation-indexed_bond).
 
 ![image](https://github.com/user-attachments/assets/daf372d3-0f70-41c7-b325-4d4c6d0af1c6)
+
+Current support:
+
+- [Australian eTIBs](https://www.australiangovernmentbonds.gov.au/bond-types/exchange-traded-treasury-indexed-bonds/list-etibs)
+
+Future support:
+
+- [US TIPS](https://www.treasurydirect.gov/indiv/products/prod_tips_glance.htm)
+- [UK Indexed Gilts](https://www.dmo.gov.uk/data/gilt-market/index-linked-gilts/)
 
 ## Getting Started
 
